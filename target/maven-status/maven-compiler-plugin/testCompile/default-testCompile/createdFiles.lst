@@ -1,0 +1,5 @@
+com\ip\testngdemo\WebServiceTestSoftAssert.class
+com\ip\testngdemo\FirstTestNGTest.class
+com\ip\testngdemo\UnitTestBaseClass.class
+com\ip\testngdemo\WebServiceTestWithSetup.class
+com\ip\testngdemo\WebServiceBaseClass.class

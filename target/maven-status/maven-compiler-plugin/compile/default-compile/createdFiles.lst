@@ -1,0 +1,3 @@
+com\ip\testngdemo\DuplicateUserException.class
+com\ip\testngdemo\UserManager.class
+com\ip\testngdemo\UserManagerException.class

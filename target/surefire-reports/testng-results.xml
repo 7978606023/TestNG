@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.ip.testngdemo.FirstTestNGTest" duration-ms="20" started-at="2020-09-03T14:35:43Z" finished-at="2020-09-03T14:35:44Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20" started-at="2020-09-03T14:35:43Z" finished-at="2020-09-03T14:35:44Z">
+      <class name="com.ip.testngdemo.FirstTestNGTest">
+        <test-method status="PASS" signature="globalSetup()[pri:0, instance:com.ip.testngdemo.FirstTestNGTest@1464ce8]" name="globalSetup" is-config="true" duration-ms="13" started-at="2020-09-03T14:35:43Z" finished-at="2020-09-03T14:35:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method status="PASS" signature="globalBeforeMethodSetup()[pri:0, instance:com.ip.testngdemo.FirstTestNGTest@1464ce8]" name="globalBeforeMethodSetup" is-config="true" duration-ms="0" started-at="2020-09-03T14:35:44Z" finished-at="2020-09-03T14:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalBeforeMethodSetup -->
+        <test-method status="PASS" signature="customLocalSetupMethod()[pri:0, instance:com.ip.testngdemo.FirstTestNGTest@1464ce8]" name="customLocalSetupMethod" is-config="true" duration-ms="1" started-at="2020-09-03T14:35:44Z" finished-at="2020-09-03T14:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customLocalSetupMethod -->
+        <test-method status="PASS" signature="getExistingUserReturnsExistingSavedUser()[pri:0, instance:com.ip.testngdemo.FirstTestNGTest@1464ce8]" name="getExistingUserReturnsExistingSavedUser" duration-ms="2" started-at="2020-09-03T14:35:44Z" finished-at="2020-09-03T14:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExistingUserReturnsExistingSavedUser -->
+        <test-method status="PASS" signature="getNonExistingUserReturnsNull()[pri:0, instance:com.ip.testngdemo.FirstTestNGTest@1464ce8]" name="getNonExistingUserReturnsNull" duration-ms="0" started-at="2020-09-03T14:35:44Z" finished-at="2020-09-03T14:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNonExistingUserReturnsNull -->
+        <test-method status="PASS" signature="globalBeforeMethodSetup()[pri:0, instance:com.ip.testngdemo.FirstTestNGTest@1464ce8]" name="globalBeforeMethodSetup" is-config="true" duration-ms="0" started-at="2020-09-03T14:35:44Z" finished-at="2020-09-03T14:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalBeforeMethodSetup -->
+        <test-method status="PASS" signature="customLocalSetupMethod()[pri:0, instance:com.ip.testngdemo.FirstTestNGTest@1464ce8]" name="customLocalSetupMethod" is-config="true" duration-ms="0" started-at="2020-09-03T14:35:44Z" finished-at="2020-09-03T14:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customLocalSetupMethod -->
+        <test-method status="PASS" signature="customLocalSetupMethod()[pri:0, instance:com.ip.testngdemo.FirstTestNGTest@1464ce8]" name="customLocalSetupMethod" is-config="true" duration-ms="0" started-at="2020-09-03T14:35:44Z" finished-at="2020-09-03T14:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customLocalSetupMethod -->
+        <test-method status="PASS" signature="successfulAddUserReturnsTrue()[pri:0, instance:com.ip.testngdemo.FirstTestNGTest@1464ce8]" name="successfulAddUserReturnsTrue" duration-ms="0" started-at="2020-09-03T14:35:44Z" finished-at="2020-09-03T14:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulAddUserReturnsTrue -->
+        <test-method status="PASS" signature="globalBeforeMethodSetup()[pri:0, instance:com.ip.testngdemo.FirstTestNGTest@1464ce8]" name="globalBeforeMethodSetup" is-config="true" duration-ms="0" started-at="2020-09-03T14:35:44Z" finished-at="2020-09-03T14:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalBeforeMethodSetup -->
+      </class> <!-- com.ip.testngdemo.FirstTestNGTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.ip.testngdemo.FirstTestNGTest -->
+</testng-results>
